@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Prueba2</string>
+    <string name="back_button">Back</string>
+    <string name="page_title">Title</string>
+    <string name="username">username</string>
+    <string name="phone">611111111</string>
+    <string name="description">Descripción</string>
+    <string name="btngmaps">Ver en mapa</string>
+    <string name="review">Comparte tu experiencia</string>
+    <string name="direction">Dirección</string>
+    <string name="category">TODO</string>
+    <string name="Seeall">Todas las reseñas</string>
+    <string name="restaurant_name">Nombre del Restaurante</string>
+
+</resources>
